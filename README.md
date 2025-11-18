@@ -111,6 +111,7 @@ As this repository is primarily for educational purposes, contributions in the f
 ## References
 
 For further reading, the following resources are recommended:
+
 - **Sutton & Barto (2018)**: Reinforcement Learning: An Introduction
 - **David Silver's RL Course**: Available on YouTube
 - **OpenAI Spinning Up**: A guide to Deep RL
