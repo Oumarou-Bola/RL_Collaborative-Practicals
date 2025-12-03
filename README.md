@@ -8,7 +8,7 @@ Reinforcement Learning (RL) is a branch of machine learning concerned with how a
 
 ### Key Concepts and Equations
 
-- **Agent**: The entity making decisions.
+- **Agent**: The entity making decisions .
 - **Environment**: The system in which the agent operates.
 - **State (`s`)**: A representation of the environment at a given time.
 - **Action (`a`)**: The choice made by the agent.
