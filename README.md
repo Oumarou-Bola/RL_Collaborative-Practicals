@@ -101,7 +101,7 @@ Title: RL Collaborative Practicals
 Institution: AIMS SA 
 Instructor: Mehrdad Ghaziasgar, University of the Western Cape
 Year: 2024 
-Repository: [https://github.com/OMB227/RL_Collaborative-Practicals](https://github.com/Oumarou-Bola/RL_Collaborative-Practicals)  
+Repository: https://github.com/OMB227/RL_Collaborative-Practicals  
 ```
 
 ## Contributions
